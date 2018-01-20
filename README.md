@@ -124,3 +124,13 @@ that's just a guess.
 
 One last note here: regardless of the IDE used, every submitted project must
 still be compilable with cmake and make./
+
+##### Sources used for this project:
+
+<sub>* http://stackoverflow.com/</sub>
+<sub>* Project Q&A video on YouTube</sub>
+<sub>* https://github.com/</sub>
+<sub>* https://github.com/priya-dwivedi/CarND</sub>
+<sub>* https://discussions.udacity.com/</sub>
+<sub> * Thanks to my mentor for all her wonderful suggestions and her help.</sub>
+
